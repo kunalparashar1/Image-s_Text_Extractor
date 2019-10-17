@@ -1,4 +1,4 @@
-
+#Author Kunal Parashar
 import pytesseract	 
 
 
